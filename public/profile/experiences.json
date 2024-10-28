@@ -1,33 +1,17 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Full Stack Engineer ",
+            "subtitle": "A.P. Moller Maersk, Bengaluru",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed and tested backend services using Java and Spring Boot, contributing to the Visibility team under the ISCE Department.",
+                "Shipment Journey Service APIs: Developed and maintained APIs using Java and Spring Boot, achieving a 20% improvement in response times and seamless server-side logic." ,
+                "Proxy API: Designed and implemented a proxy API with extensive testing, increasing API reliability by 30% and reducing latency by 15%.",
+                "Monitoring and Performance: Utilized Grafana and Prometheus for real-time performance tracking, reducing issue resolution time by 25% and enhancing system reliability."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "04/2024 – Present"
         }
+
     ]
 }

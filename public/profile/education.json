@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Dec 2020 - Jun 2024",
+            "cardSubtitle":"R.V. College of Engineering (RVCE) ,Bengaluru",
+            "cardTitle": "B.E. Electronics & Telecommunication Engineering,",
+
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/rvce.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Apr 2020",
+            "cardTitle": "Pre-University, Science (PCMB)",
+            "cardSubtitle":"Alva’s PU College ,Mangaluru",
+            "cardDetailedText": ""
         }
     ]
 }
